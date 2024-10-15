@@ -6,7 +6,10 @@ Step-by-Step Guide
 Prerequisites:
 
   a. Ensure you have Terraform installed.
+  
   b. Linode API token with sufficient permissions for instance management and backups.
+  
   c. Set up cron or a task scheduler for flexible time-based automation.
+  
   d. Create terraform configuration file attached in this repo
   
